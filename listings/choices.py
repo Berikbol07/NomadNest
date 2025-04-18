@@ -20,7 +20,7 @@ price_choices = {
     '90000000': '₸90M',
     '1000000000': '₸100M+',
 }
-
+# Kalalar zhane olardyn kodtary
 state_choices = {
     "ALA": "Almaty",
     "AST": "Astana",
